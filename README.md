@@ -11,4 +11,4 @@ Main menu of this table is divided into 3 sections
 3. Snake game
 
 
-![Pong Gif](https://im3.ezgif.com/tmp/ezgif-3-9406b18276.gif)
+![Pong Gif](https://im3.ezgif.com/tmp/ezgif-3-2ca406db9e.gif)
